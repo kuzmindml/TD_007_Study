@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My First Post on VK Mini Apps</title>
+    <link>http://example.org/docs/</link>
+    <description>Recent content in My First Post on VK Mini Apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2023 19:22:13 +0300</lastBuildDate><atom:link href="http://example.org/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Первые шаги</title>
+      <link>http://example.org/docs/1/getting-started/getting-started/</link>
+      <pubDate>Sun, 13 Aug 2023 15:10:23 +0300</pubDate>
+      
+      <guid>http://example.org/docs/1/getting-started/getting-started/</guid>
+      <description>Первые шаги#VK Mini Apps — это открытая платформа встраиваемых кросс-платформенных приложений, которые расширяют возможности сайта и приложения ВКонтакте. По этой инструкции вы можете создать своё первое мини-приложение.
+Краткая инструкция для опытных пользователей. Видеоуроки и другие полезные материалы.
+Как создать первое мини-приложение
+Чтобы познакомиться с платформой и опубликовать первое мини-приложение, вам потребуется:
+Зарегистрировать мини-приложение ВКонтакте. Собрать мини-приложение. Запустить мини-приложение локально и убедиться, что оно работает. Запустить мини-приложение внутри ВКонтакте.</description>
+    </item>
+    
+    <item>
+      <title>Счётчик в каталоге мини-приложений</title>
+      <link>http://example.org/docs/1/badge-counter/badge-counter/</link>
+      <pubDate>Sun, 13 Aug 2023 15:10:23 +0300</pubDate>
+      
+      <guid>http://example.org/docs/1/badge-counter/badge-counter/</guid>
+      <description>Счётчик в каталоге мини-приложений#Бейдж с количеством уведомлений в мини-приложении
+Разработчик может добавить бейдж с количеством уведомлений (счётчик уведомлений) на квадратную обложку и квадратную обложку для каталога мини-приложения.
+Пример: число непрочитанных сообщений в игре. Если событий больше 99, то счётчик будет показывать 99+.
+Счётчик можно подключить программно к мини-приложению, которое пользователь:
+• запускал из каталога более 3 раз за любой срок;
+• добавил в избранные вне зависимости от нахождения мини-приложения в каталоге.</description>
+    </item>
+    
+  </channel>
+</rss>
